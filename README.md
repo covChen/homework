@@ -1,8 +1,9 @@
-# homework
-# 嵌入式系统作业
-## 作业需求
-- 完成嵌入式系统相关任务。
-- 编写相关代码和文档。
+# Embedded System Homework
 
-## 开源版权说明
-本项目采用 MIT 许可证开源。
+## 作业需求
+- 在 GitHub/Gitee 创建仓库
+- 提交至少两次 commit
+- 添加开源版权说明
+
+## License
+本项目遵循 MIT License。
